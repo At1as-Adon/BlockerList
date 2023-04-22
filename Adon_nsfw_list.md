@@ -12,3 +12,5 @@
 ||0000.1.free.fr^
 ||000063.fortunecity.ws^
 ||0001xhamster.com^
+||reddit.com^
+||twitter.com^
