@@ -14,3 +14,4 @@
 ||0001xhamster.com^
 ||reddit.com^
 ||twitter.com^
+||https://anvaka.github.io/map-of-reddit/^
